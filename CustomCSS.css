@@ -72,6 +72,7 @@ body{
 	padding-top: 0px !important;
 }
 
-.tabs160 li:nth-child(5){
+ul.tabs160 li:nth-child(5){
 	width:534px !important;
+}
 }
