@@ -69,10 +69,9 @@ body{
 }
 
 .tabs{
-	padding-top: 5px !important;
+	padding-top: 10px !important;
 }
 
 ul.tabs160 li:nth-child(5){
 	width:534px !important;
-}
 }
