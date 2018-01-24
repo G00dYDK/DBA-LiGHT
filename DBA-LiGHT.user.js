@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         DBA LiGHT
 // @namespace    http://www.dba.dk/
-// @version      2.00
+// @version      2.01
 // @description  Light up dba.dk (bloaded p.o.s.)
 // @author       Me!
 // @match        htt*://www.dba.dk/computer-og-spillekonsoller/s*
